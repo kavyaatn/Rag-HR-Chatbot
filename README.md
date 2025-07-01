@@ -1,5 +1,10 @@
 # HR Resource Query Chatbot
 
+![Alt Text](results/result1.png)
+![Alt Text](results/result2.png)
+![Alt Text](results/result3.png)
+
+
 ## Overview
 
 An AI-powered HR assistant chatbot that helps HR teams find employees using natural language processing and Retrieval-Augmented Generation (RAG). The system allows users to ask questions like "Find Python developers with 3+ years experience" and get intelligent, contextual responses with matching employee recommendations.
