@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Sarah Chen",
+        "skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Computer Vision", "Healthcare AI"],
+        "experience_years": 6,
+        "projects": ["Medical Diagnosis Platform", "X-ray Analysis System", "Patient Risk Prediction"],
+        "availability": "available",
+        "department": "AI Research",
+        "location": "San Francisco",
+        "specializations": ["Healthcare AI", "Medical Imaging", "Deep Learning"]
+    },
+    {
+        "id": 2,
+        "name": "Michael Rodriguez",
+        "skills": ["Python", "scikit-learn", "pandas", "Machine Learning", "Healthcare Data", "HIPAA Compliance"],
+        "experience_years": 4,
+        "projects": ["Patient Risk Prediction System", "Electronic Health Records Analysis", "Clinical Decision Support"],
+        "availability": "available",
+        "department": "Data Science",
+        "location": "New York",
+        "specializations": ["Healthcare Analytics", "Ensemble Methods", "Data Privacy"]
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "skills": ["Python", "React", "AWS", "Docker", "FastAPI", "PostgreSQL"],
+        "experience_years": 5,
+        "projects": ["E-commerce Platform", "Healthcare Dashboard", "Microservices Architecture"],
+        "availability": "available",
+        "department": "Full Stack Development",
+        "location": "Austin",
+        "specializations": ["Web Development", "Cloud Architecture", "API Design"]
+    },
+    {
+        "id": 4,
+        "name": "David Kim",
+        "skills": ["React Native", "JavaScript", "TypeScript", "Mobile Development", "Redux", "Firebase"],
+        "experience_years": 4,
+        "projects": ["Mobile Banking App", "Healthcare Mobile Platform", "Social Media App"],
+        "availability": "busy",
+        "department": "Mobile Development",
+        "location": "Seattle",
+        "specializations": ["Cross-platform Mobile", "React Ecosystem", "Real-time Apps"]
+    },
+    {
+        "id": 5,
+        "name": "Emily Watson",
+        "skills": ["Java", "Spring Boot", "Kubernetes", "AWS", "Microservices", "Apache Kafka"],
+        "experience_years": 7,
+        "projects": ["Banking System", "Payment Gateway", "Distributed Systems Architecture"],
+        "availability": "available",
+        "department": "Backend Development",
+        "location": "Chicago",
+        "specializations": ["Enterprise Systems", "Event-Driven Architecture", "High-Performance Computing"]
+    },
+    {
+        "id": 6,
+        "name": "Robert Thompson",
+        "skills": ["DevOps", "AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Monitoring"],
+        "experience_years": 6,
+        "projects": ["Cloud Migration", "Infrastructure Automation", "Multi-region Deployment"],
+        "availability": "available",
+        "department": "DevOps",
+        "location": "Denver",
+        "specializations": ["Cloud Infrastructure", "Automation", "Site Reliability Engineering"]
+    },
+    {
+        "id": 7,
+        "name": "Lisa Park",
+        "skills": ["UI/UX Design", "Figma", "Adobe Creative Suite", "User Research", "Prototyping"],
+        "experience_years": 5,
+        "projects": ["Healthcare App Redesign", "E-commerce UX Optimization", "Design System Creation"],
+        "availability": "available",
+        "department": "Design",
+        "location": "Los Angeles",
+        "specializations": ["Healthcare UX", "Accessibility Design", "Design Systems"]
+    },
+    {
+        "id": 8,
+        "name": "James Wilson",
+        "skills": ["Python", "Django", "PostgreSQL", "Redis", "Celery", "GraphQL"],
+        "experience_years": 4,
+        "projects": ["Content Management System", "API Gateway", "Real-time Analytics Dashboard"],
+        "availability": "on_leave",
+        "department": "Backend Development",
+        "location": "Portland",
+        "specializations": ["Web APIs", "Database Optimization", "Async Programming"]
+    },
+    {
+        "id": 9,
+        "name": "Maria Garcia",
+        "skills": ["Data Science", "Python", "R", "Tableau", "SQL", "Statistical Analysis"],
+        "experience_years": 3,
+        "projects": ["Sales Analytics Platform", "Customer Segmentation", "Predictive Analytics"],
+        "availability": "available",
+        "department": "Data Science",
+        "location": "Miami",
+        "specializations": ["Business Intelligence", "Statistical Modeling", "Data Visualization"]
+    },
+    {
+        "id": 10,
+        "name": "Kevin Lee",
+        "skills": ["Flutter", "Dart", "Firebase", "Mobile Development", "API Integration"],
+        "experience_years": 3,
+        "projects": ["Cross-platform E-commerce App", "IoT Mobile Controller", "Fitness Tracking App"],
+        "availability": "available",
+        "department": "Mobile Development",
+        "location": "San Diego",
+        "specializations": ["Cross-platform Development", "Mobile UI/UX", "Performance Optimization"]
+    },
+    {
+        "id": 11,
+        "name": "Anna Kowalski",
+        "skills": ["Cybersecurity", "Penetration Testing", "Network Security", "Python", "Linux"],
+        "experience_years": 5,
+        "projects": ["Security Audit Platform", "Vulnerability Assessment Tool", "Incident Response System"],
+        "availability": "available",
+        "department": "Security",
+        "location": "Boston",
+        "specializations": ["Ethical Hacking", "Security Architecture", "Compliance"]
+    },
+    {
+        "id": 12,
+        "name": "Chris Anderson",
+        "skills": ["Node.js", "Express", "MongoDB", "React", "GraphQL", "Socket.io"],
+        "experience_years": 4,
+        "projects": ["Real-time Chat Application", "Social Media Platform", "Content Management API"],
+        "availability": "busy",
+        "department": "Full Stack Development",
+        "location": "Nashville",
+        "specializations": ["Real-time Applications", "NoSQL Databases", "Modern JavaScript"]
+    },
+    {
+        "id": 13,
+        "name": "Priya Patel",
+        "skills": ["Machine Learning", "Deep Learning", "NLP", "Python", "Transformers", "BERT"],
+        "experience_years": 4,
+        "projects": ["Chatbot Development", "Document Classification", "Sentiment Analysis Platform"],
+        "availability": "available",
+        "department": "AI Research",
+        "location": "San Jose",
+        "specializations": ["Natural Language Processing", "Conversational AI", "Text Analytics"]
+    },
+    {
+        "id": 14,
+        "name": "Tom Mitchell",
+        "skills": ["Blockchain", "Solidity", "Web3", "Ethereum", "Smart Contracts", "DeFi"],
+        "experience_years": 3,
+        "projects": ["DeFi Protocol", "NFT Marketplace", "Cryptocurrency Exchange"],
+        "availability": "available",
+        "department": "Blockchain",
+        "location": "Austin",
+        "specializations": ["Smart Contract Development", "DeFi", "Tokenomics"]
+    },
+    {
+        "id": 15,
+        "name": "Rachel Green",
+        "skills": ["Product Management", "Agile", "Scrum", "Data Analysis", "User Research"],
+        "experience_years": 6,
+        "projects": ["Healthcare Product Launch", "Mobile App Strategy", "Feature Prioritization Framework"],
+        "availability": "available",
+        "department": "Product",
+        "location": "San Francisco",
+        "specializations": ["Healthcare Products", "Mobile Strategy", "Growth Analytics"]
+    },
+    {
+        "id": 16,
+        "name": "Alex Turner",
+        "skills": ["Quality Assurance", "Automation Testing", "Selenium", "Python", "Performance Testing"],
+        "experience_years": 4,
+        "projects": ["Test Automation Framework", "Performance Testing Suite", "CI/CD Testing Pipeline"],
+        "availability": "available",
+        "department": "QA",
+        "location": "Phoenix",
+        "specializations": ["Test Automation", "Performance Engineering", "Quality Processes"]
+    }
+]
