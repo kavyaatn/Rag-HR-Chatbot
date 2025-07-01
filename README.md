@@ -54,15 +54,15 @@ An AI-powered HR assistant chatbot that helps HR teams find employees using natu
 ## Setup & Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.10.x
 - pip package manager
 
 ### Backend Setup
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd hr-chatbot
+git clone https://github.com/kavyaatn/Rag-HR-Chatbot.git
+cd rag-hr-chatbot
 ```
 
 2. **Set up backend environment**
@@ -190,19 +190,3 @@ Bot: "I found 3 excellent candidates:
 • Recent projects: Patient Risk Prediction System
 • Status: available | Location: New York"
 ```
-
-
-
-# API Configuration
-API_HOST=localhost
-API_PORT=8000
-
-# OpenAI Configuration (optional - for enhanced generation)
-# OPENAI_API_KEY=your_openai_api_key_here
-
-# Streamlit Configuration
-STREAMLIT_PORT=8501
-
-# Development Settings
-DEBUG=True
-LOG_LEVEL=INFO
